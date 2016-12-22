@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <h1>Create CCoy</h1>
+    <form action="/api/ccoy" method="post">
+    	<input type="text" name="name" placeholder="Name" />
+    	<input type="text" name="c_cde" placeholder="Cubit Code" />
+    	<br/>
+    	<input type="submit" name="Create CCoy" />
+    </form>
+  </body>
+</html>

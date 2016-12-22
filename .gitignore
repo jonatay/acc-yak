@@ -1,0 +1,7 @@
+/node_modules/
+/.idea/
+.env
+public/images/
+public/javascripts/
+/working/
+/config/config.js
